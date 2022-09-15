@@ -2,7 +2,7 @@
 
 Learn how to integreate Postgres with Redpanda via Debezium for change data capture (CDC).
 
-Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
+Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/change-data-capture-postgres-debezium-kafka-connect) to put this demo into action. 
 
 —-------
 
